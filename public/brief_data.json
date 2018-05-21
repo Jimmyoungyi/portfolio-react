@@ -1,0 +1,121 @@
+{
+  "education": [
+    {
+      "title": "Academy of Art University",
+      "subtitle": "San Francisco - MFA",
+      "info": "Feb. 2013 - May. 2017",
+      "content": "Web Design and New Media",
+      "detail": {
+        "title": "MFA",
+        "description": "MFA",
+        "points": ["MFA"]
+      }
+    },
+    {
+      "title": "China Central Academy of Fine Art",
+      "subtitle": "Beijing China - BFA",
+      "info": "Sep. 2007 - Jun. 2011",
+      "content": "Information Design - Experimental Media Studio",
+      "detail": {
+        "title": "",
+        "description": "",
+        "points": []
+      }
+    }
+  ],
+  "experienct": [
+    {
+      "title": "Puritycosmetics",
+      "subtitle": "San Jose - Web developer",
+      "info": "Feb. 2018 - current",
+      "content": "website address: 100percentpure.com",
+      "detail": {
+        "title": "Response",
+        "description": "",
+        "points": [
+          "Animation/interaction",
+          "Optimize",
+          "website address: 100percentpure.com"
+        ]
+      }
+    },
+    {
+      "title": "Road-Twenty-Two",
+      "subtitle": "San Francisco - Front-end developer",
+      "info": "Sep. 2017 - Dec. 2017",
+      "content": "website address: roadtwentytwo.com",
+      "detail": {
+        "title": "Response",
+        "description": "",
+        "points": [
+          "Consistently apply the Shopify content editor, Liquid, Html, CSS to redesign the website.",
+          "Successfully launch, maintain, and test new website functionalities.",
+          "website address: roadtwentytwo.com"
+        ]
+      }
+    },
+    {
+      "title": "Btrax",
+      "subtitle": "San Francisco - Front-end developer",
+      "info": "Sep. 2016 - Dec. 2016",
+      "content": "website address: btrax.com",
+      "detail": {
+        "title": "Response",
+        "description": "",
+        "points": [
+          "Using multiple programming languages to turn design to website.",
+          "Taking full responsibility of the website.",
+          "website address: btrax.com"
+        ]
+      }
+    }
+  ],
+  "skill":[
+    {
+      "title": "Developer",
+      "subtitle": "",
+      "info": "",
+      "content":"HTML, CSS, SASS, JavaScript, Google Map API, PHP, TypeScript, CoffeeScript, Liquid, MySQL, ActionScript 3, Swift 2, Angular 4, jQuery (mobile, UI), D3.js, Bootstrap, Wordpress, Squarespace, Shopify, Drupal, Foundation",
+      "display":{
+        "title": "",
+        "description": "",
+        "points": []
+      }
+    },
+    {
+      "title": "Designer",
+      "subtitle": "",
+      "info": "",
+      "content":"PhotoShop, Illustrator, Sketch, Animate, Framer, Adobe Experience Design",
+      "detail": {
+        "title": "",
+        "description": "",
+        "points": []
+      }
+    }
+  ],
+  "contact-me": [
+    {
+      "title": "E-mail",
+      "subtitle": "",
+      "info": "",
+      "content":"",
+      "detail": {
+        "title": "",
+        "description": "",
+        "points": []
+      }
+    },
+    {
+      "title": "Social links",
+      "subtitle": "",
+      "info": "",
+      "content":"",
+      "detail": {
+        "title": "",
+        "description": "",
+        "points": []
+      }
+    }
+  ]
+}

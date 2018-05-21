@@ -1,5 +1,55 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
-}
+  font-family: sans-serif; }
+
+li {
+  list-style: none; }
+
+ul, p {
+  padding: 0;
+  margin: 0; }
+
+.center {
+  text-align: center; }
+
+.app .about-me {
+  perspective: 2000px;
+  overflow: hidden; }
+  .app .about-me .brief-controller {
+    width: 34%;
+    float: left;
+    background-color: lightgray;
+    border: 1px solid darkgray;
+    border-radius: 8px;
+    transform: rotate3d(0.08, 1, -0.03, 46deg);
+    box-shadow: 10px 5px 40px rgba(0, 0, 0, 0.2);
+    margin: 40px 20px; }
+    .app .about-me .brief-controller .tags {
+      overflow: hidden;
+      line-height: 2em; }
+      .app .about-me .brief-controller .tags li {
+        float: left;
+        border-bottom: 1px solid darkgray;
+        box-sizing: border-box;
+        text-transform: capitalize;
+        cursor: pointer; }
+      .app .about-me .brief-controller .tags li + li {
+        border-left: 1px solid darkgray; }
+      .app .about-me .brief-controller .tags li:first-child {
+        border-top-left-radius: 8px; }
+      .app .about-me .brief-controller .tags li:last-child {
+        border-top-right-radius: 8px; }
+      .app .about-me .brief-controller .tags li.active {
+        background-color: white; }
+    .app .about-me .brief-controller .biref-controller-display {
+      height: 240px;
+      display: flex;
+      flex-flow: column;
+      justify-content: center; }
+      .app .about-me .brief-controller .biref-controller-display li {
+        margin: 10px 20px;
+        opacity: 0.5;
+        cursor: pointer; }
+      .app .about-me .brief-controller .biref-controller-display li.active {
+        opacity: 1; }
